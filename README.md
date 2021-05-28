@@ -1,8 +1,4 @@
 <p align="center">
-  <img alt="animation" src=".github/imagem1.PNG" width="100%">
-</p>
-
-<p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
@@ -24,6 +20,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto faz a contagem do ano corrente ate o proximo ano novo.
 
 Projeto inspirado na video aula do canal [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4).
+
+<p align="center">
+  <img alt="animation" src=".github/imagem1.PNG" width="100%">
+</p>
 
 ## 🚀 Como Rodar
 
