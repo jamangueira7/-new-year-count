@@ -7,41 +7,28 @@
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
  </p>
-
 <br>
 
-# Q&A Engine
+# Contagem para o ano novo
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Yarn](https://yarnpkg.com/) - 1.22.4
-- [Npm](https://www.npmjs.com/) - 6.14.5
-- [NodeJS](https://nodejs.org/en/) - v14.4.0
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Bootstrap 4](https://getbootstrap.com/)
-- [Postgres](https://www.postgresql.org/)
 
 ## 💻 Projeto
 
-Projeto de um Q&A Engine com NodeJS Postgres.
+Projeto faz a contagem do ano corrente ate o proximo ano novo.
 
-Esse projeto pratico da [School of Net](https://www.schoolofnet.com/projeto-pratico/nodejs/banco-de-dados-e-nodejs/criando-uma-question-and-answers-com-nodejs-e-mysq).
+Projeto inspirado na video aula do canal [Florin Pop](https://www.youtube.com/watch?v=dtKciwk_si4).
 
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- npm install.
-- Rodar o Postgres com docker: 
-```
-docker run --name gostack_postgres -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
-```
-- Criar um banco com o nome app-qa.
-- yarn start.
-- acesse http://localhost:9000/
+- Abra o arquivo index.html no seu navegador.
 
 ## 🤔 Como contribuir
 
